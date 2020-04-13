@@ -1,7 +1,9 @@
 # JSON-TLV
 
-For build execute 'cmake CMakeLists.txt -B ./build'
+Due to submodule don\`t forget to use `git clone --recurse-submodules`
 
-Then 'cd build' and 'make'
+For build execute `cmake CMakeLists.txt -B ./build`
 
-Run './exec'
+Then `cd build` and `make`
+
+Run `./exec`
